@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alberto Cera 👋
 
-<!--
-**albertocera/albertocera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in Data Science @ Università degli Studi di Milano-Bicocca  
+💼 Junior Data Scientist Intern @ Youthquake  
+📍 Milan, Italy  
 
-Here are some ideas to get you started:
+## 🧠 About Me
+Data Science student with hands-on experience in machine learning, 
+marketing automation and data pipeline development. 
+Passionate about turning data into actionable insights and building 
+end-to-end automated workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, R, SQL, JavaScript  
+**ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
+**NLP:** BERT, TF-IDF, NLTK  
+**Databases:** MongoDB, MySQL  
+**Automation:** n8n, Zapier  
+**AI:** GPT-4, Claude, Prompt Engineering  
+**Other:** Pandas, NumPy, Matplotlib, pymongo  
+
+## 📌 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Lombardia Vivibile](#) | Multidimensional liveability index for Lombard cities | MongoDB, Python, REST API |
+| [BBC News NLP](#) | Text classification & clustering pipeline | BERT, TF-IDF, SVM, KMeans |
+| [CNN Comparison](#) | CNN architecture comparison on CIFAR-10 | TensorFlow, Keras |
+| [Trustpilot Pipeline](#) | Automated review analysis with AI | n8n, GPT-4 |
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Cera-blue)](https://www.linkedin.com/in/alberto-cera-b2b227303)
