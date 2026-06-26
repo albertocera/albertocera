@@ -16,7 +16,7 @@ end-to-end automated workflows.
 **NLP:** BERT, TF-IDF, NLTK  
 **Databases:** MongoDB, MySQL  
 **Automation:** n8n, Zapier  
-**AI:** GPT-4, Claude, Prompt Engineering  
+**AI:** Claude, Prompt Engineering  
 **Other:** Pandas, NumPy, Matplotlib, pymongo  
 
 ## 📌 Projects
