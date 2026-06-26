@@ -25,7 +25,7 @@ end-to-end automated workflows.
 | [Lombardia Vivibile](https://github.com/albertocera/lombardia-vivibile) | Multidimensional liveability index for Lombard cities | MongoDB, Python, REST API |
 | [BBC News NLP](https://github.com/albertocera/bbc-news-nlp) | Text classification & clustering pipeline | BERT, TF-IDF, SVM, KMeans |
 | [CNN Comparison](https://github.com/albertocera/cnn-architecture-comparison) | CNN architecture comparison on CIFAR-10 | TensorFlow, Keras |
-| [Trustpilot Pipeline](#) | Automated review analysis with AI | n8n, GPT-4 |
+| [Trustpilot Pipeline](https://github.com/albertocera/trustpilot-review-pipeline) | Automated review analysis with AI | n8n, GPT-4 |
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Cera-blue)](https://www.linkedin.com/in/alberto-cera-b2b227303)
